@@ -19,19 +19,19 @@
 # Custom host records are listed here.
 
 # Google
-0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 www.gstatic.cn
+0.0.0.0 chrome.google.com
+0.0.0.0 clients.l.google.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 fonts.googleapis.com
-0.0.0.0 chrome.google.com
 0.0.0.0 play.googleapis.com
-0.0.0.0 clients.l.google.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 www.gstatic.cn
 
 # Youtube
 0.0.0.0 manifest.googlevideo.com
-0.0.0.0 r8.sn-gxuog0-axqe.googlevideo.com
-0.0.0.0 r7---sn-gxuog0-n8ve.googlevideo.com
 0.0.0.0 r2---sn-4g5e6nss.googlevideo.com
-0.0.0.0 r7---sn-gxuog0-axqe.googlevideo.com
-0.0.0.0 r6.sn-gxuog0-axqe.googlevideo.com
 0.0.0.0 r4.sn-gxuog0-axqe.googlevideo.com
+0.0.0.0 r6.sn-gxuog0-axqe.googlevideo.com
+0.0.0.0 r7---sn-gxuog0-axqe.googlevideo.com
+0.0.0.0 r7---sn-gxuog0-n8ve.googlevideo.com
+0.0.0.0 r8.sn-gxuog0-axqe.googlevideo.com

@@ -18,23 +18,23 @@
 
 # Custom host records are listed here.
 
-0.0.0.0 statically.io
-0.0.0.0 onetrust.com
 0.0.0.0 as.godmode-trader.de
-0.0.0.0 production.cleverpush.com
-0.0.0.0 consent.t-online.de
 0.0.0.0 auth.liiift.io
 0.0.0.0 consent.stroeerdp.de
-0.0.0.0 gateway.pinata.cloud
-0.0.0.0 vs-tools.mtvnservices.com
+0.0.0.0 consent.t-online.de
 0.0.0.0 doppler-config.cbsivideo.com
-0.0.0.0 ocsp.usertrust.com
-0.0.0.0 ocsp.sectigo.com
+0.0.0.0 gateway.pinata.cloud
 0.0.0.0 ggpht.comv
+0.0.0.0 ocsp.sectigo.com
+0.0.0.0 ocsp.usertrust.com
+0.0.0.0 onetrust.com
+0.0.0.0 production.cleverpush.com
+0.0.0.0 statically.io
+0.0.0.0 vs-tools.mtvnservices.com
 
 # 9Gag Tracking
-0.0.0.0 privacy-api.9gag.com
 0.0.0.0 9gag.helpshift.com
+0.0.0.0 privacy-api.9gag.com
 
 # Brave Browser
 0.0.0.0 static1.brave.com

@@ -19,8 +19,8 @@
 # Custom host records are listed here.
 
 0.0.0.0 app-measurement.com
-0.0.0.0 xp.apple.com
-0.0.0.0 p45-keyvalueservice.icloud.com
-0.0.0.0 smoot-feedback.v.aaplimg.com
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 inappcheck.itunes.apple.com
+0.0.0.0 p45-keyvalueservice.icloud.com
+0.0.0.0 smoot-feedback.v.aaplimg.com
+0.0.0.0 xp.apple.com
