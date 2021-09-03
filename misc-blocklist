@@ -1,6 +1,6 @@
 # Title: BirdDev/misc-blocklist
 #
-# This hosts file blocks apple related domains.
+# This hosts file blocks misc domains.
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/BirdDev/pihole-blocklists/master/misc-blocklist
 # Project home page: https://github.com/BirdDev/pihole-blocklists
@@ -18,5 +18,18 @@
 
 # Custom host records are listed here.
 
-# [Misc]
+# Reverse Address Resolution?
 0.0.0.0 ipv4only.arpa
+
+0.0.0.0 current-version.bin
+0.0.0.0 version.bin
+0.0.0.0 version.bind
+
+# FritzBox
+0.0.0.0 hpe4f7d6.fritz.box
+0.0.0.0 hpe4f7d6.box
+
+# https://www.ghacks.net/2020/02/19/why-is-firefox-establishing-connections-to-detectportal-firefox-com-on-start/
+0.0.0.0 detectportal.firefox.com
+
+0.0.0.0 auth.liiift.io

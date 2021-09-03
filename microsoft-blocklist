@@ -1,6 +1,6 @@
 # Title: BirdDev/microsoft-blocklist
 #
-# This hosts file blocks apple related domains.
+# This hosts file blocks microsoft related domains.
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/BirdDev/pihole-blocklists/master/microsoft-blocklist
 # Project home page: https://github.com/BirdDev/pihole-blocklists
@@ -18,5 +18,26 @@
 
 # Custom host records are listed here.
 
-# [Microsoft Connectivity Service]
+# Microsoft Connectivity Service
 0.0.0.0 dns.msftncsi.com
+
+0.0.0.0 client.wns.windows.com
+0.0.0.0 go.microsoft.com
+
+# Xbox Tracking
+0.0.0.0 userpresence.xboxlive.com
+
+# Windows Graph
+0.0.0.0 graph.windows.net
+
+# Windows Telemetry
+0.0.0.0 settings-win.data.microsoft.com
+
+# Edge Tracking
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 azureedge.net
+0.0.0.0 edge.microsoft.com
+0.0.0.0 msedge.api.cdp.microsoft.com
+
+# Microsoft Experiments
+0.0.0.0 exp-tas.com

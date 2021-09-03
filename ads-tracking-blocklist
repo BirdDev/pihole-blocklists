@@ -1,0 +1,69 @@
+# Title: BirdDev/ads-tracking-blocklist
+#
+# This hosts file blocks ads / tracking related domains.
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/BirdDev/pihole-blocklists/master/ads-tracking-blocklist
+# Project home page: https://github.com/BirdDev/pihole-blocklists
+#
+# ===============================================================
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
+
+# Custom host records are listed here.
+
+0.0.0.0 statically.io
+0.0.0.0 onetrust.com
+0.0.0.0 as.godmode-trader.de
+0.0.0.0 production.cleverpush.com
+0.0.0.0 consent.t-online.de
+0.0.0.0 consent.stroeerdp.de
+0.0.0.0 gateway.pinata.cloud
+0.0.0.0 vs-tools.mtvnservices.com
+0.0.0.0 doppler-config.cbsivideo.com
+0.0.0.0 ocsp.usertrust.com
+0.0.0.0 ocsp.sectigo.com
+0.0.0.0 ggpht.comv
+
+# 9Gag Tracking
+0.0.0.0 privacy-api.9gag.com
+0.0.0.0 9gag.helpshift.com
+
+# Brave Browser
+0.0.0.0 static1.brave.com
+
+# Ebay
+0.0.0.0 backstory.ebay.de
+
+# Flipboard
+0.0.0.0 fbprod.flipboard.com
+
+# Fontawesome
+0.0.0.0 use.fontawesome.com
+0.0.0.0 use.fontawesome.com.cdn.cloudflare.net
+
+# GoG Tracking
+0.0.0.0 insights-collector.gog.com
+0.0.0.0 notifications-pusher-aws.gog.com
+0.0.0.0 notifications-pusher.gog.com
+
+# Musixmatch
+0.0.0.0 apic-w.musixmatch.com
+
+# Nvidida tracking
+0.0.0.0 services.gfe.nvidia.com
+
+# Smart TVs
+0.0.0.0 eu.vieraconnect.eu
+
+# Spotify
+0.0.0.0 scdnco.spotify.map.fastly.net
+
+# ZDF
+0.0.0.0 module.zdf.de
