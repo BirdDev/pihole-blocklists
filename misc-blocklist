@@ -1,0 +1,22 @@
+# Title: BirdDev/misc-blocklist
+#
+# This hosts file blocks apple related domains.
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/BirdDev/pihole-blocklists/master/misc-blocklist
+# Project home page: https://github.com/BirdDev/pihole-blocklists
+#
+# ===============================================================
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
+
+# Custom host records are listed here.
+
+# [Misc]
+0.0.0.0 ipv4only.arpa
