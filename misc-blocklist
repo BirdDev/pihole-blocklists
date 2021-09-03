@@ -31,5 +31,3 @@
 
 # https://www.ghacks.net/2020/02/19/why-is-firefox-establishing-connections-to-detectportal-firefox-com-on-start/
 0.0.0.0 detectportal.firefox.com
-
-0.0.0.0 auth.liiift.io
