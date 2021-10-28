@@ -31,10 +31,14 @@
 0.0.0.0 production.cleverpush.com
 0.0.0.0 statically.io
 0.0.0.0 vs-tools.mtvnservices.com
+0.0.0.0 api-traderepublic-com.ax4z.com
 
 # 9Gag Tracking
 0.0.0.0 9gag.helpshift.com
 0.0.0.0 privacy-api.9gag.com
+
+# Arch Linux
+0.0.0.0 ping.archlinux.org
 
 # Brave Browser
 0.0.0.0 static1.brave.com
@@ -48,6 +52,9 @@
 # Fontawesome
 0.0.0.0 use.fontawesome.com
 0.0.0.0 use.fontawesome.com.cdn.cloudflare.net
+
+# Github
+0.0.0.0 alive.github.com
 
 # GoG Tracking
 0.0.0.0 insights-collector.gog.com
@@ -69,3 +76,4 @@
 
 # ZDF
 0.0.0.0 module.zdf.de
+0.0.0.0 abgroup.zdf.de
