@@ -19,6 +19,7 @@
 # Custom host records are listed here.
 
 0.0.0.0 as.godmode-trader.de
+0.0.0.0 argusdata.io
 0.0.0.0 auth.liiift.io
 0.0.0.0 consent.stroeerdp.de
 0.0.0.0 consent.t-online.de
