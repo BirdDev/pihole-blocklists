@@ -65,6 +65,7 @@
 
 # Spotify
 0.0.0.0 scdnco.spotify.map.fastly.net
+0.0.0.0 planetargon.myshopify.com
 
 # ZDF
 0.0.0.0 module.zdf.de
