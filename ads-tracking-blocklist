@@ -18,8 +18,9 @@
 
 # Custom host records are listed here.
 
-0.0.0.0 as.godmode-trader.de
+0.0.0.0 api-traderepublic-com.ax4z.com
 0.0.0.0 argusdata.io
+0.0.0.0 as.godmode-trader.de
 0.0.0.0 auth.liiift.io
 0.0.0.0 consent.stroeerdp.de
 0.0.0.0 consent.t-online.de
@@ -32,7 +33,6 @@
 0.0.0.0 production.cleverpush.com
 0.0.0.0 statically.io
 0.0.0.0 vs-tools.mtvnservices.com
-0.0.0.0 api-traderepublic-com.ax4z.com
 
 # 9Gag Tracking
 0.0.0.0 9gag.helpshift.com
@@ -72,9 +72,9 @@
 0.0.0.0 eu.vieraconnect.eu
 
 # Spotify
-0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 planetargon.myshopify.com
+0.0.0.0 scdnco.spotify.map.fastly.net
 
 # ZDF
-0.0.0.0 module.zdf.de
 0.0.0.0 abgroup.zdf.de
+0.0.0.0 module.zdf.de
