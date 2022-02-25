@@ -33,6 +33,7 @@
 0.0.0.0 ocsp.usertrust.com
 0.0.0.0 onetrust.com
 0.0.0.0 outbrain.com
+0.0.0.0 p3-group.com
 0.0.0.0 production.cleverpush.com
 0.0.0.0 statically.io
 0.0.0.0 vs-tools.mtvnservices.com
@@ -53,6 +54,9 @@
 
 # Brave Browser
 0.0.0.0 static1.brave.com
+
+# Deepl
+0.0.0.0 sentry.deepl.com
 
 # Doubleclick
 0.0.0.0 doubleclick.net
@@ -75,11 +79,13 @@
 
 # Github
 0.0.0.0 alive.github.com
+0.0.0.0 collector.github.com
 
 # GoG Tracking
 0.0.0.0 insights-collector.gog.com
 0.0.0.0 notifications-pusher-aws.gog.com
 0.0.0.0 notifications-pusher.gog.com
+0.0.0.0 presence.gog.com
 
 # Golem
 0.0.0.0 cpx.golem.de
@@ -105,6 +111,7 @@
 # Spotify
 0.0.0.0 planetargon.myshopify.com
 0.0.0.0 scdnco.spotify.map.fastly.net
+0.0.0.0 sharing-config.spotifycdn.com
 
 # Yahoo
 0.0.0.0 apple-finance.query.yahoo.com
