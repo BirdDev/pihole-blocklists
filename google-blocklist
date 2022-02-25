@@ -23,6 +23,8 @@
 0.0.0.0 clients.l.google.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 fonts.googleapis.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 www.gstatic.cn
