@@ -32,6 +32,7 @@
 0.0.0.0 ocsp.sectigo.com
 0.0.0.0 ocsp.usertrust.com
 0.0.0.0 onetrust.com
+0.0.0.0 outbrain.com
 0.0.0.0 production.cleverpush.com
 0.0.0.0 statically.io
 0.0.0.0 vs-tools.mtvnservices.com
@@ -40,14 +41,30 @@
 0.0.0.0 9gag.helpshift.com
 0.0.0.0 privacy-api.9gag.com
 
+# Adjust
+0.0.0.0 adjust.com
+0.0.0.0 adjust.net
+0.0.0.0 adjust.net.in
+0.0.0.0 adjust.world
+0.0.0.0 app.adjust
+
 # Arch Linux
 0.0.0.0 ping.archlinux.org
 
 # Brave Browser
 0.0.0.0 static1.brave.com
 
+# Doubleclick
+0.0.0.0 doubleclick.net
+
+# DuckDuckGo
+0.0.0.0 improving.duckduckgo.com
+
 # Ebay
 0.0.0.0 backstory.ebay.de
+
+# EMetriq
+0.0.0.0 emetriq.de
 
 # Flipboard
 0.0.0.0 fbprod.flipboard.com
@@ -64,11 +81,23 @@
 0.0.0.0 notifications-pusher-aws.gog.com
 0.0.0.0 notifications-pusher.gog.com
 
+# Golem
+0.0.0.0 cpx.golem.de
+
+# Gravatar
+0.0.0.0 www.gravatar.com
+
 # Musixmatch
 0.0.0.0 apic-w.musixmatch.com
 
 # Nvidida tracking
 0.0.0.0 services.gfe.nvidia.com
+
+# Onesignal
+0.0.0.0 cdn.onesignal.com
+
+# Shazam
+0.0.0.0 beacon.shazam.com
 
 # Smart TVs
 0.0.0.0 eu.vieraconnect.eu
@@ -76,6 +105,9 @@
 # Spotify
 0.0.0.0 planetargon.myshopify.com
 0.0.0.0 scdnco.spotify.map.fastly.net
+
+# Yahoo
+0.0.0.0 apple-finance.query.yahoo.com
 
 # ZDF
 0.0.0.0 abgroup.zdf.de
