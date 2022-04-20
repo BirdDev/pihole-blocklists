@@ -21,13 +21,20 @@
 # Google
 0.0.0.0 chrome.google.com
 0.0.0.0 clients.l.google.com
+0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 update.googleapis.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googleapis.com
 0.0.0.0 www.gstatic.cn
+0.0.0.0 www.gstatic.com
 
 # Youtube
 0.0.0.0 manifest.googlevideo.com
