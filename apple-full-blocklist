@@ -19,6 +19,7 @@
 # Custom host records are listed here.
 
 0.0.0.0 aaplimg.com
+0.0.0.0 apple-dns.com
 0.0.0.0 apple.com
 0.0.0.0 cdn-apple.com
 0.0.0.0 www.apple.com
