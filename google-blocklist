@@ -26,6 +26,7 @@
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 metadata.google.internal
 0.0.0.0 mtalk.google.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 play.googleapis.com
