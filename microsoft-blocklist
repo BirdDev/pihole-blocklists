@@ -42,5 +42,8 @@
 # Microsoft Experiments
 0.0.0.0 exp-tas.com
 
+# Network Time Service
+0.0.0.0 time.windows.com
+
 # VS Code Experiments
 0.0.0.0 vscodeexperiments.azureedge.net
