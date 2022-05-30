@@ -22,7 +22,9 @@
 
 # Misc
 0.0.0.0 client.wns.windows.com
+0.0.0.0 geover.prod.do.dsp.mp.microsoft.com
 0.0.0.0 go.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
 
 # Device Metadata
 0.0.0.0 dmd.metaservices.microsoft.com
