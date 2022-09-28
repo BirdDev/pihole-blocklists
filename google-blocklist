@@ -19,6 +19,7 @@
 # Custom host records are listed here.
 
 # Google
+0.0.0.0 android-safebrowsing.google.com
 0.0.0.0 chrome.google.com
 0.0.0.0 clients.l.google.com
 0.0.0.0 connectivitycheck.gstatic.com
@@ -29,9 +30,12 @@
 0.0.0.0 metadata.google.internal
 0.0.0.0 mtalk.google.com
 0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 play-lh.googleusercontent.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 update.googleapis.com
+0.0.0.0 userlocation.googleapis.com
+0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleapis.com
 0.0.0.0 www.gstatic.cn
