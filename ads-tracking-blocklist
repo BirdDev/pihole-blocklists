@@ -18,7 +18,11 @@
 
 # Custom host records are listed here.
 
+0.0.0.0 a2z.com
+0.0.0.0 acc.umu.se
+0.0.0.0 adfinis.com
 0.0.0.0 api-traderepublic-com.ax4z.com
+0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 argusdata.io
 0.0.0.0 as.godmode-trader.de
 0.0.0.0 auth.liiift.io
@@ -27,6 +31,7 @@
 0.0.0.0 consent.t-online.de
 0.0.0.0 doppler-config.cbsivideo.com
 0.0.0.0 dus-insight.p3-group.com
+0.0.0.0 example.org
 0.0.0.0 gateway.pinata.cloud
 0.0.0.0 ggpht.comv
 0.0.0.0 insightapi.p3-group.com
@@ -106,11 +111,13 @@
 
 # Shazam
 0.0.0.0 beacon.shazam.com
+0.0.0.0 kong-global.shz-amp-prod.shazamcloud.com
 
 # Smart TVs
 0.0.0.0 eu.vieraconnect.eu
 
 # Spotify
+0.0.0.0 api-partner.spotify.com
 0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 sharing-config.spotifycdn.com
 
