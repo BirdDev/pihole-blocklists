@@ -26,6 +26,7 @@
 0.0.0.0 consent.stroeerdp.de
 0.0.0.0 consent.t-online.de
 0.0.0.0 doppler-config.cbsivideo.com
+0.0.0.0 dus-insight.p3-group.com
 0.0.0.0 gateway.pinata.cloud
 0.0.0.0 ggpht.comv
 0.0.0.0 insightapi.p3-group.com
@@ -34,7 +35,7 @@
 0.0.0.0 onetrust.com
 0.0.0.0 outbrain.com
 0.0.0.0 p3-group.com
-0.0.0.0 dus-insight.p3-group.com
+0.0.0.0 planetargon.myshopify.com
 0.0.0.0 production.cleverpush.com
 0.0.0.0 statically.io
 0.0.0.0 vs-tools.mtvnservices.com
@@ -110,7 +111,6 @@
 0.0.0.0 eu.vieraconnect.eu
 
 # Spotify
-0.0.0.0 planetargon.myshopify.com
 0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 sharing-config.spotifycdn.com
 
