@@ -18,8 +18,10 @@
 
 # Custom host records are listed here.
 
-0.0.0.0 advertising.amazon.de
-0.0.0.0 partnernet.amazon.de
 0.0.0.0 advertising.amazon.com
+0.0.0.0 advertising.amazon.de
+0.0.0.0 amazon-logistikblog.de
+0.0.0.0 amazon-presse.de
 0.0.0.0 partnernet.amazon.com
+0.0.0.0 partnernet.amazon.de
 0.0.0.0 www.amazon.science
