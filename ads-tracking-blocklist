@@ -109,6 +109,14 @@
 # Onesignal
 0.0.0.0 cdn.onesignal.com
 
+# Screen13
+0.0.0.0 cdn.webinstaller.screen13.com
+0.0.0.0 data.webinstaller.screen13.com
+0.0.0.0 images.cdn.webinstaller.screen13.com
+0.0.0.0 network.screen13.com
+0.0.0.0 screen13.com
+0.0.0.0 webinstaller.screen13.com
+
 # Shazam
 0.0.0.0 beacon.shazam.com
 0.0.0.0 kong-global.shz-amp-prod.shazamcloud.com
