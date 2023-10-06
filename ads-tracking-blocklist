@@ -84,6 +84,9 @@
 0.0.0.0 use.fontawesome.com
 0.0.0.0 use.fontawesome.com.cdn.cloudflare.net
 
+# GeeksForGeeks
+0.0.0.0 cdnads.geeksforgeeks.org
+
 # Github
 0.0.0.0 alive.github.com
 0.0.0.0 collector.github.com
@@ -108,6 +111,9 @@
 
 # Onesignal
 0.0.0.0 cdn.onesignal.com
+
+# Pinterest
+0.0.0.0 log.pinterest.com
 
 # Screen13
 0.0.0.0 cdn.webinstaller.screen13.com
